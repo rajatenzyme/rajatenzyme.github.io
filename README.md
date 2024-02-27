@@ -26,16 +26,6 @@ I'm Rajat Mittal, a passionate software engineer with experience in developing a
   Percentage: 74.47%  
   Year: 2016-2020
 
-- **Senior Secondary**  
-  Bhartiya Sr Sec School, Sikar  
-  Percentage: 94.60%  
-  Year: 2015
-
-- **Secondary**  
-  Bhartiya Sr Sec School, Sikar  
-  Percentage: 92.50%  
-  Year: 2013
-
 ## Work Experiences
 - **Precisely Software & Data Ltd**  
   Engineer  
